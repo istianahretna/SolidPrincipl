@@ -1,1 +1,1 @@
-# SolidPrincipl
+# SolidPrinciples
